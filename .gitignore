@@ -1,0 +1,20 @@
+# Compiled binaries (file "main" hasil kompilasi)
+main
+*.out
+*.exe
+*.o
+*.obj
+*.a
+*.so
+build/
+
+# VS Code: simpan hanya tasks.json (cara build), abaikan sisanya
+.vscode/*
+!.vscode/tasks.json
+
+# Debug / OS / editor junk
+*.log
+*.swp
+.DS_Store
+Thumbs.db
+core
